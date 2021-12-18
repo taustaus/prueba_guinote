@@ -115,4 +115,4 @@ for b in baza:
 
 print(palo_triunfo)
 
-#Por hacer: juugar las 6 bazas de arrastre, cambiar el 7, contar las 10 últimas
+#Por hacer: jugar las 6 bazas de arrastre, cambiar el 7, contar las 10 últimas
