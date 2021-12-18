@@ -93,7 +93,7 @@ for b in baza:
                                         tantos[pareja] = tantos[pareja] + 40
                                     else:
                                         tantos[pareja] = tantos[pareja] + 20
-                                cantado[palo.index(c[1])] = True        
+                                    cantado[palo.index(c[1])] = True        
     else:
         for j in [jugador[1],jugador[3]]:
             for c in j:
@@ -106,7 +106,7 @@ for b in baza:
                                         tantos[pareja] = tantos[pareja] + 40
                                     else:
                                         tantos[pareja] = tantos[pareja] + 20
-                                cantado[palo.index(c[1])] = True
+                                    cantado[palo.index(c[1])] = True
     print (sale)
     print (jugador)
     print (b)
